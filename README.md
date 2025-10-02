@@ -1,6 +1,6 @@
 # Cześć, jestem Patryk Wójtowicz! 👋
 
-**Embedded C++ Developer** | Arduino | ESP32 | Raspberry Pi | CodeSys
+** C++ |Python | ROS2 | Nvidia Isaac Sim | Arduino | ESP32 | Raspberry Pi | CodeSys **
 
 ## 🔧 Moje Projekty
 
