@@ -18,14 +18,17 @@
 ### FIZYKA & MATEMATYKA(coming soon...)
 
 ### PLC 
--🔧[Automatyczne Sterowanie Zbiornikiem Wodnym](https://github.com/PatrykxWojtowicz/Zbiornik-Codesys) - Automatyczne Sterowanie Zbiornikiem Wodnym w Codesys
+-🔧[Automatyczne Sterowanie Zbiornikiem Wodnym](https://github.com/PatrykxWojtowicz/Zbiornik-Codesys) 
+
+### ROS2
+-🔋[Symulacja działania baterii w ROS2 PYTHON](https://github.com/PatrykxWojtowicz/Symulacja_Bateri_ROS2_PY)
 
 
 ## 🛠️ Technologie
-**Programming:** C++, Arduino IDE, PlatformIO  
+**Programming:** C++, Arduino IDE, PlatformIO , Python
 **Hardware:** ESP32, Raspberry Pi, Arduino  
 **Design:** Autodesk Inventor, Fusion 360  
-**Systems:** Linux, CodeSys  
+**Systems:** Linux, CodeSys, Windows
 
 ## 📫 Kontakt
 - 💼 [LinkedIn](https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-0aa272361/)
