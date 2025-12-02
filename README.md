@@ -1,4 +1,4 @@
-# Cześć, jestem Patryk Wójtowicz! 👋
+# Cześć, jestem Patryk ! 👋
 
  🔝 C++ |Python | ROS2 | Nvidia Isaac Sim | Arduino | ESP32 | Raspberry Pi | CodeSys 
 
