@@ -4,15 +4,22 @@
 
 ## 🔧 Moje Projekty
 
-### C++
+### C++ ⚡︎
+- 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Program szyfrująco/deszyfrujący w C++
 - 💰[bank_management_system_oop](https://github.com/PatrykxWojtowicz/bank_management_system_oop) - Prosta struktura banku w C++ za pomocą OOP
 - 📊 [Logger danych z czujnika](https://github.com/PatrykxWojtowicz/Logger-danych-z-czujnika-na-PC) - Zapisywanie danych z czujników do pliku CSV (prototyp dla Arduino/ESP32)
+
+### Python 🐍
+
+
+### Rust 🦀
+
 
 ### Arduino (coming soon...)
 - 🌡️ Smart Weather Station 
 - 🏠 Home Automation System
 
-### ESP32 (w planach...)
+### ESP32 (coming soon...)
 - 📡 IoT Sensor Network
 - 🤖 WiFi-controlled Robot
 
@@ -23,7 +30,6 @@
 
 ### ROS2
 -🧑‍💻[Zbiór programów napisanych w C++ podczas nauki ROS2](https://github.com/PatrykxWojtowicz/ROS2_beginner_projects_cpp)
-
 -🔋[Symulacja działania baterii w ROS2 PYTHON](https://github.com/PatrykxWojtowicz/Symulacja_Bateri_ROS2_PY)
 
 
