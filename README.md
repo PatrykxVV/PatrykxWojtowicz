@@ -15,7 +15,7 @@
 
 
 ### Rust 🦀
-
+- 📄[Rust Log Counter](https://github.com/PatrykxVV/Rust_log_counter) - Prosty program CLI napisany w języku Rust, który analizuje plik tekstowy i zlicza podstawowe statystyki logów.
 
 ### Arduino (coming soon...)
 - 🌡️ Smart Weather Station 
