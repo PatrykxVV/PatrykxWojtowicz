@@ -13,8 +13,8 @@
 
 
 ### Python 🐍
-
-
+- 🕸️ [Network_proxy_debugger](https://github.com/PatrykxVV/Network_proxy_debugger) -  TCP proxy z wykorzystaniem pythona jako testera zachowań sieciowych
+- 
 ### Rust 🦀
 - 📄[Rust Log Counter](https://github.com/PatrykxVV/Rust_log_counter) - Prosty program CLI napisany w języku Rust, który analizuje plik tekstowy i zlicza podstawowe statystyki logów.
 
